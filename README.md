@@ -1,4 +1,4 @@
-# Open Verdi
+# GateVela
 
 Work in progress: a desktop circuit viewer for exploring gate-level netlists.
 
